@@ -1,4 +1,63 @@
 <?xml version="1.0"?>
 <houses>
-
+	<house name="Tusk Flats 1" houseid="110" entryx="5109" entryy="5066" entryz="7" rent="80000" townid="9" size="25" clientid="0" beds="2" />
+	<house name="Tusk Flats 2" houseid="111" entryx="5110" entryy="5059" entryz="7" rent="80000" townid="9" size="28" clientid="0" beds="2" />
+	<house name="Tusk Flats 3" houseid="112" entryx="5117" entryy="5053" entryz="7" rent="80000" townid="9" size="26" clientid="0" beds="2" />
+	<house name="Tusk Flats 5" houseid="113" entryx="5129" entryy="5050" entryz="7" rent="25000" townid="9" size="18" clientid="0" beds="1" />
+	<house name="Tusk Flats 4" houseid="114" entryx="5116" entryy="5047" entryz="7" rent="25000" townid="9" size="13" clientid="0" beds="1" />
+	<house name="Tusk Flats 6" houseid="115" entryx="5117" entryy="5041" entryz="7" rent="50000" townid="9" size="23" clientid="0" beds="2" />
+	<house name="Corner Shop (Shop)" houseid="116" entryx="5113" entryy="5083" entryz="7" rent="500000" townid="9" size="51" clientid="0" beds="2" />
+	<house name="Shady Rocks 5" houseid="117" entryx="5097" entryy="5067" entryz="7" rent="300000" townid="9" size="64" clientid="0" beds="2" />
+	<house name="Shady Rocks 4 (Shop)" houseid="118" entryx="5088" entryy="5060" entryz="7" rent="200000" townid="9" size="65" clientid="0" beds="2" />
+	<house name="Pilchard Bin 4" houseid="119" entryx="5089" entryy="5094" entryz="7" rent="50000" townid="9" size="14" clientid="0" beds="1" />
+	<house name="Pilchard Bin 5" houseid="120" entryx="5089" entryy="5090" entryz="7" rent="80000" townid="9" size="14" clientid="0" beds="2" />
+	<house name="Pilchard Bin 3" houseid="121" entryx="5089" entryy="5098" entryz="7" rent="50000" townid="9" size="14" clientid="0" beds="1" />
+	<house name="Pilchard Bin 2" houseid="122" entryx="5089" entryy="5102" entryz="7" rent="50000" townid="9" size="14" clientid="0" beds="2" />
+	<house name="Pilchard Bin 1" houseid="123" entryx="5089" entryy="5106" entryz="7" rent="80000" townid="9" size="14" clientid="0" beds="2" />
+	<house name="Pilchard Bin 6" houseid="124" entryx="5090" entryy="5106" entryz="6" rent="25000" townid="9" size="11" clientid="0" beds="1" />
+	<house name="Pilchard Bin 7" houseid="125" entryx="5090" entryy="5102" entryz="6" rent="25000" townid="9" size="11" clientid="0" beds="1" />
+	<house name="Pilchard Bin 8" houseid="126" entryx="5090" entryy="5098" entryz="6" rent="25000" townid="9" size="10" clientid="0" beds="2" />
+	<house name="Pilchard Bin 9" houseid="127" entryx="5090" entryy="5094" entryz="6" rent="25000" townid="9" size="11" clientid="0" beds="1" />
+	<house name="Pilchard Bin 10" houseid="128" entryx="5090" entryy="5090" entryz="6" rent="25000" townid="9" size="11" clientid="0" beds="1" />
+	<house name="Lakeside Mansion" houseid="129" entryx="5096" entryy="5048" entryz="5" rent="300000" townid="9" size="90" clientid="0" beds="5" />
+	<house name="Shady Rocks 3" houseid="130" entryx="5086" entryy="5063" entryz="7" rent="300000" townid="9" size="97" clientid="0" beds="3" />
+	<house name="Bears Paw 5" houseid="131" entryx="5081" entryy="5099" entryz="7" rent="200000" townid="9" size="45" clientid="0" beds="3" />
+	<house name="Trout Plaza 5 (Shop)" houseid="132" entryx="5084" entryy="5109" entryz="7" rent="300000" townid="9" size="88" clientid="0" beds="2" />
+	<house name="Skiffs End 2" houseid="133" entryx="5066" entryy="5131" entryz="7" rent="80000" townid="9" size="21" clientid="0" beds="2" />
+	<house name="Trout Plaza 4" houseid="134" entryx="5064" entryy="5119" entryz="7" rent="80000" townid="9" size="22" clientid="0" beds="1" />
+	<house name="Trout Plaza 3" houseid="135" entryx="5064" entryy="5115" entryz="7" rent="80000" townid="9" size="22" clientid="0" beds="1" />
+	<house name="Trout Plaza 2" houseid="136" entryx="5069" entryy="5103" entryz="7" rent="150000" townid="9" size="34" clientid="0" beds="2" />
+	<house name="Bears Paw 4" houseid="137" entryx="5065" entryy="5100" entryz="7" rent="400000" townid="9" size="56" clientid="0" beds="4" />
+	<house name="Bears Paw 1" houseid="138" entryx="5073" entryy="5074" entryz="7" rent="200000" townid="9" size="38" clientid="0" beds="2" />
+	<house name="Shady Rocks 2" houseid="139" entryx="5068" entryy="5061" entryz="7" rent="200000" townid="9" size="41" clientid="0" beds="4" />
+	<house name="Shady Rocks 1" houseid="140" entryx="5068" entryy="5052" entryz="7" rent="300000" townid="9" size="79" clientid="0" beds="4" />
+	<house name="Spirit Homes 2" houseid="141" entryx="5028" entryy="5066" entryz="7" rent="150000" townid="9" size="38" clientid="0" beds="2" />
+	<house name="Crystal Glance" houseid="142" entryx="5055" entryy="5060" entryz="7" rent="1000000" townid="9" size="319" clientid="0" beds="24" />
+	<house name="Bears Paw 2" houseid="143" entryx="5050" entryy="5075" entryz="7" rent="300000" townid="9" size="48" clientid="0" beds="2" />
+	<house name="Bears Paw 3" houseid="144" entryx="5057" entryy="5099" entryz="7" rent="200000" townid="9" size="45" clientid="0" beds="3" />
+	<house name="Trout Plaza 1" houseid="145" entryx="5057" entryy="5108" entryz="7" rent="200000" townid="9" size="56" clientid="0" beds="2" />
+	<house name="Skiffs End 1" houseid="146" entryx="5059" entryy="5129" entryz="7" rent="100000" townid="9" size="34" clientid="0" beds="2" />
+	<house name="Mammoth Belly" houseid="147" entryx="5050" entryy="5116" entryz="7" rent="1000000" townid="9" size="399" clientid="0" beds="30" />
+	<house name="Raven Corner 1" houseid="148" entryx="5043" entryy="5096" entryz="7" rent="80000" townid="9" size="19" clientid="0" beds="1" />
+	<house name="Raven Corner 2" houseid="149" entryx="5042" entryy="5098" entryz="7" rent="150000" townid="9" size="33" clientid="0" beds="3" />
+	<house name="Raven Corner 3" houseid="150" entryx="5043" entryy="5099" entryz="7" rent="100000" townid="9" size="21" clientid="0" beds="1" />
+	<house name="Arena Walk 1" houseid="151" entryx="5047" entryy="5076" entryz="7" rent="300000" townid="9" size="65" clientid="0" beds="3" />
+	<house name="Arena Walk 2" houseid="152" entryx="5048" entryy="5068" entryz="7" rent="150000" townid="9" size="27" clientid="0" beds="2" />
+	<house name="Arena Walk 3" houseid="153" entryx="5044" entryy="5060" entryz="7" rent="300000" townid="9" size="70" clientid="0" beds="3" />
+	<house name="Furrier Quarter 3" houseid="154" entryx="5041" entryy="5133" entryz="7" rent="100000" townid="9" size="35" clientid="0" beds="2" />
+	<house name="Fimbul Shelf 4" houseid="155" entryx="5027" entryy="5133" entryz="7" rent="100000" townid="9" size="35" clientid="0" beds="2" />
+	<house name="Furrier Quarter 2" houseid="156" entryx="5034" entryy="5119" entryz="7" rent="80000" townid="9" size="29" clientid="0" beds="2" />
+	<house name="Fimbul Shelf 3" houseid="157" entryx="5024" entryy="5119" entryz="7" rent="100000" townid="9" size="43" clientid="0" beds="2" />
+	<house name="Furrier Quarter 1" houseid="158" entryx="5030" entryy="5118" entryz="7" rent="150000" townid="9" size="47" clientid="0" beds="3" />
+	<house name="Fimbul Shelf 2" houseid="159" entryx="5018" entryy="5117" entryz="7" rent="100000" townid="9" size="40" clientid="0" beds="2" />
+	<house name="Fimbul Shelf 1" houseid="160" entryx="5013" entryy="5111" entryz="7" rent="80000" townid="9" size="36" clientid="0" beds="2" />
+	<house name="Spirit Homes 5" houseid="161" entryx="5032" entryy="5084" entryz="7" rent="150000" townid="9" size="28" clientid="0" beds="2" />
+	<house name="Spirit Homes 4" houseid="162" entryx="5029" entryy="5071" entryz="7" rent="80000" townid="9" size="22" clientid="0" beds="1" />
+	<house name="Spirit Homes 1" houseid="163" entryx="5019" entryy="5066" entryz="7" rent="150000" townid="9" size="33" clientid="0" beds="2" />
+	<house name="Spirit Homes 3" houseid="164" entryx="5025" entryy="5066" entryz="6" rent="300000" townid="9" size="84" clientid="0" beds="3" />
+	<house name="Glacier Side 2" houseid="165" entryx="5012" entryy="5074" entryz="7" rent="300000" townid="9" size="94" clientid="0" beds="3" />
+	<house name="Glacier Side 1" houseid="166" entryx="5015" entryy="5068" entryz="7" rent="150000" townid="9" size="32" clientid="0" beds="2" />
+	<house name="Glacier Side 3" houseid="167" entryx="5015" entryy="5082" entryz="7" rent="150000" townid="9" size="37" clientid="0" beds="2" />
+	<house name="Glacier Side 4" houseid="168" entryx="5013" entryy="5089" entryz="6" rent="150000" townid="9" size="47" clientid="0" beds="1" />
+	<house name="Shelf Site" houseid="169" entryx="5006" entryy="5092" entryz="6" rent="300000" townid="9" size="92" clientid="0" beds="3" />
 </houses>
